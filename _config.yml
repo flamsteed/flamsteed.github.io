@@ -4,7 +4,7 @@ SEOTitle: 轩誉的博客 | ZXY Blog
 header-img: img/post-bg-desk.jpg
 email: flamsteedzhao@wustl.edu
 description: "Stay hungry, stay foolish."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: "TBA"
 url: "http://flamsteed.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/flamsteed/flamsteed.github.io.git" # you code repository
@@ -18,12 +18,12 @@ sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+# weibo_username:    
 zhihu_username:     赵轩誉
 github_username:    flamsteed
 facebook_username:  赵轩誉
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#jianshu_username:   
+#twitter_username:  
 
 
 
