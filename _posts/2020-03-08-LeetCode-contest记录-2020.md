@@ -213,7 +213,7 @@ s 只包含小写英文字母。<br/>
             int cur=0;
             int ans=0;
             for(int i=0;i<N;++i){
-                switch(s[i]){
+                switch(s[i]){//状态压缩
                     case 'a':cur^=1;break;
                     case 'e':cur^=2;break;
                     case 'i':cur^=4;break;
